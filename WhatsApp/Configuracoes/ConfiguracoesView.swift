@@ -16,6 +16,7 @@ struct ConfiguracoesView: View {
             Text("Configuracoes View")
             
             Text("First Commit Test")
+            Text("Second Commit Test")
             
         }
         
