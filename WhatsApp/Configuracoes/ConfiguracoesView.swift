@@ -12,7 +12,12 @@ struct ConfiguracoesView: View {
     
     var body: some View {
         
-        Text("Configuracoes View")
+        VStack{
+            Text("Configuracoes View")
+            
+            Text("First Commit Test")
+            
+        }
         
         
     }
